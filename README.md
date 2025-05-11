@@ -59,3 +59,7 @@ Irish Nicole Diesta
 John Rvie Samson
     Testing and Quality Assurance
     Deployment and Documentation
+
+
+Deployment Link
+(https://webtech-finalproj.vercel.app)
