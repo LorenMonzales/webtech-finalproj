@@ -1,58 +1,61 @@
-Webtech Final Project
+WEBTECH FINAL PROJECT
 
-Project Description
-This project is a web application developed using Next.js and Tailwind CSS. It fetches data from the JSON Placeholder API to display user information, posts, and comments. The application also includes data visualization using ApexCharts.
-
-Feature Highlights:
-Dashboard with statistics
-User management
-Posts and comments
-Interactive charts
-Responsive design
-
-Technology Stack:
-React with TypeScript
-Tailwind CSS with ShadCN UI
-Wouter for routing
-React Query for state management
-Axios for API requests
-ApexCharts for data visualization
+This project is a responsive web application built with Next.js and Tailwind CSS, designed to display user information, posts, and comments from the JSONPlaceholder API. The application features interactive data visualizations using ApexCharts, and includes a Google Maps integration that uses coordinate data to display user locations.
 
 
-Setup and Installation:
+Feature Highlights
+    Dashboard with user statistics and post distribution
+    User list with profile views
+    Posts and associated comments per user
+    Google Maps integration using user coordinates
+    Interactive ApexCharts for visual analytics
+    Fully responsive design for mobile and desktop
 
-1. Clone the repository
+
+Technology Stack
+    -React with TypeScript
+    -Next.js for SSR and routing
+    -Tailwind CSS with ShadCN UI for design system
+    -React Query for state and server cache management
+    -Axios for API requests
+    -ApexCharts for visualizing post data
+    -Google Maps API to display user locations based on coordinates
+    -Vercel for deployment
+
+
+Setup and Installation
+
+1. Clone the repository:
+git clone https://github.com/LorenMonzales/webtech-finalproj.git
+cd webtech-finalproj
 
 2. Install dependencies:
-    npm install 
+npm install
 
-3. Run the application:
-    npm run dev
+3. Run the development server:
+npm run dev
 
-    The application will be accessible at `http://localhost:3000`.
+4. Open your browser and navigate to:
+http://localhost:3000
 
-   
-Team Member Contributions:
+
+Team Member Contributions
 
 Loren Monzales
--Project Setup and Configuration
--Data Fetching and Management
--User Interface (UI) Development
--Deployment and Documentation
--Testing and Quality Assurance
--Collaboration and Version Control
+    Project Setup and Configuration
+    Data Fetching and Management
+    User Interface (UI) Development
+    Deployment and Documentation
+    Testing and Quality Assurance
 
 Aiko Balbalosa
--Collaboration and Version Control
--Presentation
+    Collaboration and Version Control
+    Presentation
 
 Irish Nicole Diesta
--Data Visualization
--Presentation
+    Data Visualization (ApexCharts)
+    Presentation
 
 John Rvie Samson
--Testing and Quality Assurance
--Deployment and Documentation
-
-Deployed URL
-(https://webtech-finalproj.vercel.app)
+    Testing and Quality Assurance
+    Deployment and Documentation
