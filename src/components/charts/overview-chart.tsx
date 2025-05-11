@@ -22,13 +22,13 @@ export default function OverviewChart({ posts }: { posts: Post[] }) {
       background: "transparent",
       animations: {
         enabled: true,
-        easing: "easeinout",
         speed: 500,
         animateGradually: {
           enabled: true,
           delay: 100,
         },
       },
+
     },
     plotOptions: {
       bar: {
