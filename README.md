@@ -63,3 +63,6 @@ John Rvie Samson
 
 Deployment Link
 (https://webtech-finalproj.vercel.app)
+
+Google Drive Video Link
+(https://drive.google.com/drive/folders/1ZP3XGXwVAKyRC8WL7VNqE4ARUmCsKI0T) 
